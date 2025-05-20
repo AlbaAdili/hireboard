@@ -1,7 +1,3 @@
-# The Scouts 
-
-# About the project
-The definition of the name "scout" is "a soldier or other person sent out ahead of a main force to gather information about the enemy's position, strength, or movements. The project is named "The Scouts" as it represents a group of individuals working together to scout and identify qualified, and good-fit candidates and is often used as a term in the recruitment context.
 
 # Installation 
 Build the project with the following steps:
